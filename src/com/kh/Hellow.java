@@ -6,6 +6,7 @@ public class Hellow {
 	System.out.println("hellow java");
 	System.out.println("new one");
 	System.out.println("new on2");
+	
 	}
 
 }
