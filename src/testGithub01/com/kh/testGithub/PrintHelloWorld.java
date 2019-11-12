@@ -6,6 +6,6 @@ public class PrintHelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Yooji Hello"); 
 		System.out.println("Hi : 다정이가 인사한다.");
-		  
+		System.out.println("hello DJ");
 	}
 }
