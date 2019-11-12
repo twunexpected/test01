@@ -13,7 +13,7 @@ public class PrintHelloWorld {
     System.out.println("Hi : ����̰� �λ��Ѵ�.");
     System.out.println("������~~ �����!");
 		System.out.println("����° ���");
-
+    System.out.println("�ƾƾƾƾƾ�");
+    
 	}
 }
-
