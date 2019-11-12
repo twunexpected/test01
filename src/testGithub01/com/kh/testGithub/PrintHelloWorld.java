@@ -1,3 +1,4 @@
+
 package testGithub01.com.kh.testGithub;
 
 public class PrintHelloWorld {
@@ -14,6 +15,6 @@ public class PrintHelloWorld {
     System.out.println("������~~ �����!");
 		System.out.println("����° ���");
     System.out.println("�ƾƾƾƾƾ�");
-    
+    System.out.println("hello DJ");
 	}
 }
