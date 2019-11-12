@@ -11,7 +11,7 @@ public class PrintHelloWorld {
 		System.out.println("어허어어~~ 유지쿤!");
 		System.out.println("누구야 누가그랬어!!!!");
 		System.out.println("콴이가 그랬어!");
-		System.out.println("대니천재");
+		System.out.println("Danny is smartman!");
 
 	}
 }
