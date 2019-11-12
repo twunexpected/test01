@@ -4,8 +4,14 @@ public class PrintHelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
+
+		System.out.println("ê´€ì´ê°€ ìˆ˜ì •í–ˆë‹¤ë¦¬!");
+
 		System.out.println("YOOZIYOOZIHIHI");
-		System.out.println("¾îÇã¾î¾î~~ À¯ÁöÄï!");
-		System.out.println("¼¼¹øÂ° ¼öÁ¤");
+		System.out.println("ì–´í—ˆì–´ì–´~~ ìœ ì§€ì¿¤!");
+		System.out.println("ëˆ„êµ¬ì•¼ ëˆ„ê°€ê·¸ë¬ì–´!!!!");
+    System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½~~ ï¿½ï¿½ï¿½ï¿½ï¿½!");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Â° ï¿½ï¿½ï¿½");
+    
 	}
 }
